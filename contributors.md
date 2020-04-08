@@ -1,7 +1,7 @@
-Odhiambo Brandy (https://github.com/brandy-kay)
-Joel Kanyi (https://github.com/JoelKanyi)
-Patrick wambua(https://github.com/PatrickWambua)
-Washington Apoo(https://github.com/lokaloWashington)
-david otsieno(https://github.com/etamoss)
-Collince Okeyo (https://github.com/Collince-Okeyo)
+Odhiambo Brandy (https://github.com/brandy-kay)</br>
+Joel Kanyi (https://github.com/JoelKanyi)</br>
+Patrick wambua(https://github.com/PatrickWambua)</br>
+Washington Apoo(https://github.com/lokaloWashington)</br>
+david otsieno(https://github.com/etamoss)</br>
+Collince Okeyo (https://github.com/Collince-Okeyo)</br>
 Moses Etabo (https://github.com/etamoss) 
